@@ -1,5 +1,2 @@
-bu sfdere tamam
-welcome link.py
-garlic
-salah
-aydın
+henry eklendi
+bugün
