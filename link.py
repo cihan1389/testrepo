@@ -1,2 +1,1 @@
-henry eklendi
-bugün
+denemeye değer
