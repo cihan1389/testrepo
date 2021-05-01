@@ -1,9 +1,1 @@
-temiz bir sayfa revr öncetsi
-
-
-
-
-
-
-
-
+1inci satir eklendi
