@@ -1,2 +1,9 @@
-deneme
-ikinci bir commit için giriş yaptım
+temiz bir sayfa revr öncetsi
+
+
+
+
+
+
+
+
