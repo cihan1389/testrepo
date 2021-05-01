@@ -10,3 +10,4 @@ secondline added
 =======
 STASH UYgulamasıyapılacak
 >>>>>>> Stashed changes
+adas
