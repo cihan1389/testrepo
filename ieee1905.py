@@ -1,4 +1,1 @@
-dict = {
-            message_type:"123"
-        }
-
+ieee1905 protocol çözüldü
