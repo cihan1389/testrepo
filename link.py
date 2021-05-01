@@ -1,1 +1,1 @@
-denemeye değer
+link.py ekliyorum
